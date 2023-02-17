@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.titulo{
+    display: block;
+    text-align: center;
+}
+
+#paragrafo{
+    display: block;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 350px;
+    width: 350px
+}
+
+.verde{
+    color: green;
+}

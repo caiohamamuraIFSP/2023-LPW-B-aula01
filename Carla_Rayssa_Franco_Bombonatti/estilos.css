@@ -1,0 +1,15 @@
+#titulo{
+    text-align: center;
+    background-color: orangered;
+    margin: -10px;
+}
+.enfatizar{
+    text-align: center;
+    text-justify: distribute-all-lines;
+    font-style: italic; 
+    font-size: 12cm;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}

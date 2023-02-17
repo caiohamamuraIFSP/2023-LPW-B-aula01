@@ -1,0 +1,18 @@
+body {
+    background-color: blanchedalmond;
+}
+p {
+    color: rgb(209, 102, 209);
+}
+#wan{
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    color:rgb(104, 104, 209);
+}
+.center {
+    display: flex;
+    justify-content: center;
+    border: 2px pink solid;
+}

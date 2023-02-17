@@ -1,0 +1,13 @@
+h1{
+    color:brown;
+}
+
+#centro {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}

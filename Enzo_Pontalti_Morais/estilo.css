@@ -1,0 +1,13 @@
+#titulo-principal{
+    color: firebrick;
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    

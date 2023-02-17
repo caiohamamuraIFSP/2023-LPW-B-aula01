@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://i1.wp.com/emotioncard.com.br/wp-content/uploads/2018/10/papel-de-parede-santos-pc2.jpeg?fit=1920%2C1080&ssl=1);
+}
+.santos{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+   
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+    width: 250;
+    height: 240;
+    padding:30px;
+    margin: 30px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    width: 300;
+    height: 300;
+}
+
+#tabela{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}

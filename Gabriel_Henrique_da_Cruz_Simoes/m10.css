@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+
+
+.texto{
+    background-color: aqua;
+    display: block;
+    text-align: center;
+}
+
+.messi{
+    display: block;
+    margin: auto;
+}
